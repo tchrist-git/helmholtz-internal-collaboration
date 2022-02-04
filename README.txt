@@ -6,15 +6,13 @@ hello, i was here
 
 this is a new line.
 Hi
+Hello :)
+Hello
+Hallo
 Hallo!
-
 Hello, it's Merve
-
 Hi..(Mostafa)
 another Hi...
 hello
-
 Hi all!
-
-
 Hi
